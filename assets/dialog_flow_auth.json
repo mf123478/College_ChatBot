@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "admissionsqueryguide-hfrv",
+  "private_key_id": "6d9d092c9b7cad02dc25d94e1611f32f44c5fd48",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDWEDSjpWhhuHlJ\nuFpsc1pvLuTARZBi2PyvfembBj7Mcni+yPahqNC/WwW0kOq4v1qnumSMxyWSZqCB\nXvEiKpqzV6hbJa7gHC1q+kO2H6fcB38mV7P9A+yJgKTAULjf016IyFy/z+ntOjOt\ncDmRRiwXzSNd+MW4BJv5SzreXg0++HnBmxN178/b/Df+qzHmMf0Aw2g77flbJ+Mt\nmRW8zVEDO4/lhc67jygstSv34J+ZaurkkqdMREsASDLlXwMUhSDG2qLKusZJNugm\naW7x0hY94VFK4xuKx60WUeiZGAKC5mOli6f0utY87xV/l3RJapu6qL+XO7n69q5U\nwovpgoBdAgMBAAECggEAEYRj+lxHzW9eJYU7iRJrfRu2RnGq3hvpmabRHgmFzA82\nCE7Dt/jrlC0rq1oMiy/FiGI9ZjPJxFA3pD6TtvsLi8+JjGPqCpbjtJRkRBwVDXFj\nm0ykAvl2Os5XLRGt/0r5unHC/UNTXkFcBz5ex5+Zbh0wXrlD3MorxVu9poLFzLg8\nPdvx+gNq881kZp61DIHIOSDaEmjRp4QkXFiHtpUa9hO3qE1bfVF44WY4ZWh8Zhjw\nagFVYngAQPUzkEv+rAQrXc5sWjxhZ27v1Q5GwPIQv3yOgt/flCjr2HWWyRiy682r\n8+UNZeDDWcDNJ9pjN6ar5Ynu2ErpqpRbP7go2e4kYQKBgQD7ND+5arSEaP//6dM2\ni30V+9SDhvlpP0un5Ysj68PPjSrm+Zq9MlJvophJk3lhECdZazluCnLPAw2mCQQh\nP8v9jD71U7woqOd1DSFCFikCn6vJsWoKptunjzVa8p69UfMsGoyrAIY1AI44KPY4\ny4eStZkVRiHS3nO0rMCk3bSjaQKBgQDaJm6xKUkXdK/t/zb9QOPvCv3rkXIycBLY\nftveSau6r6XwMC2GW5rYAK4yps696WKSPYyddhGzUL4IqQOHkISovlFMuSrVxVYG\nN34f0OGPp0/U3G0QH/7sl5tfRHOjA2IRbH5UaCUa7yMBTIgrHfIkEz8YVYEbTzRd\nXrcru1L61QKBgD+4UTHHT2MG/2j69wiu+VvKNW3nnvyDgb1lDJZgB5tuQ6OzTP0Q\n9rg6lkaTkgZ9An48JKU1IUpBjATB5LpKZIQ8Pvwb8W6e6ZdXbUhGNsDjn7/ZsPxi\ntvUZ7n7TbFC5qOVXFreJuoFXUrwMJ+jgN9OPHPW4hHvo0ZDTAUrQsjGBAoGAYNSi\nWZz7xp+S389i9zLwedClOQUMbXr1woc8zQRiZ7FDtMON0Y+jwbE7oVwNdJq9mDAd\n1F7uKGv0jh+HY4swdz5TE/01GEJJluTW5QRwurUHaHKXLoslOpto6faWZYtA4n8H\n7Ct2HOh83zy7THg0XPL2FLUPY7Hain9aSt0RTikCgYAkcsMReCedzYbCxeQKpMBp\nFKU/lHydZHtePzTsqNMCoz5dmcYDJaI1SPZf0/CGHrst8kDrQI47+7djYTkCrav3\nSTOsVi/8/VdxOJKgwFaXSC2wftiBcHFDDrOMzzWnHdWxdi6+ohmVSj3gbHliLC92\nju1Hdz7zyI/H3tHQGi3GZw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "amissionsquerybot@admissionsqueryguide-hfrv.iam.gserviceaccount.com",
+  "client_id": "106497041443511438419",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amissionsquerybot%40admissionsqueryguide-hfrv.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
